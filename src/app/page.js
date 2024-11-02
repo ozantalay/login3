@@ -1,6 +1,6 @@
-import Image from "next/image";
+import App from "./App";
 export default function Home() {
   return (
-   <div>hello</div>
+   <div><App/></div>
   );
 }
